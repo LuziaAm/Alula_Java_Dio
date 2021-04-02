@@ -1,0 +1,2 @@
+com/primeiroprojeto/java/JavaApplicationTests.java
+ com.primeiroprojeto.java.JavaApplicationTests
